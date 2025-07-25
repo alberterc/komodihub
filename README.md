@@ -1,5 +1,5 @@
 # Komodihub
-Simple personal web app which analyse the stocks in the IDX market.
+Simple personal web app which analyses the stocks in the IDX market.
 
 _Built with Streamlit on Python_
 
